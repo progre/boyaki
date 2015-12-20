@@ -1,0 +1,19 @@
+{
+  "name": "boyaki",
+  "version": "0.0.0",
+  "description": "You say boyaki, and share anyone.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/progre/boyaki.git"
+  },
+  "author": "progre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/progre/boyaki/issues"
+  },
+  "homepage": "https://github.com/progre/boyaki#readme"
+}
