@@ -15,5 +15,30 @@
   "bugs": {
     "url": "https://github.com/progre/boyaki/issues"
   },
-  "homepage": "https://github.com/progre/boyaki#readme"
+  "homepage": "https://github.com/progre/boyaki#readme",
+  "devDependencies": {
+    "browser-sync": "^2.10.1",
+    "browserify": "^12.0.1",
+    "del": "^2.2.0",
+    "gulp": "^3.9.0",
+    "gulp-babel": "^6.1.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-espower": "^1.0.2",
+    "gulp-express": "^0.3.5",
+    "gulp-if": "^2.0.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-stylus": "^2.1.1",
+    "gulp-tslint": "^4.2.1",
+    "gulp-tslint-stylish": "^1.1.1",
+    "gulp-typescript": "^2.10.0",
+    "gulp-uglify": "^1.5.1",
+    "run-sequence": "^1.1.5",
+    "tslint": "^3.2.1",
+    "typescript": "^1.7.5",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
 }
